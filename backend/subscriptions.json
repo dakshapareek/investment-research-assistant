@@ -1,0 +1,29 @@
+[
+  {
+    "id": "33777674-1258-476e-9e9a-05bfd74d33d1",
+    "email": "test@example.com",
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "NVDA"
+    ],
+    "threshold": 2.0,
+    "active": false,
+    "created_at": "2026-02-16T14:23:55.410356",
+    "updated_at": "2026-02-16T14:24:01.554221",
+    "last_sent": null
+  },
+  {
+    "id": "408b9404-fa2d-42cf-9a76-3dae3d505e3d",
+    "email": "daksha.pareek@gmail.com",
+    "tickers": [
+      "AMZN",
+      "NVDA"
+    ],
+    "threshold": 0.1,
+    "active": false,
+    "created_at": "2026-02-17T10:47:45.689392",
+    "updated_at": "2026-02-17T10:54:30.986376",
+    "last_sent": null
+  }
+]
