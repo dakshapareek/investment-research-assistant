@@ -98,7 +98,7 @@ NEWS_API_KEY=36a730e110a14761a3b294ee92765cf5
 
 ### For News Summarization (Currently Configured ✅)
 ```bash
-OPENAI_API_KEY=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
+OPENAI_API_KEY=sk-YOUR_API_KEY_HERE
 ```
 - **Service**: OpenAI (gpt-4o-mini)
 - **Status**: ✅ Configured and working

@@ -87,7 +87,7 @@ When the backend starts, you should now see:
 
 Your OpenAI key is configured in `backend/.env`:
 ```
-OPENAI_API_KEY=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
+OPENAI_API_KEY=sk-YOUR_API_KEY_HERE
 ```
 
 ## Testing
